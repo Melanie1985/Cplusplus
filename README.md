@@ -23,15 +23,15 @@ Your function should work so that a user can input any three numbers they wish.
 - CHALLENGES FACED - I was still fairly new to C++ but I was fairly confident of this exercise.
 - HOW I OVERCAME THIS CHALLENGE - I just made sure I read through all the sessions note to clarify any issues that I might face.
 
-- Project No. 3 - Total of 3 numbers
-- BRIEF - Create a function and within it write your statements so that it takes in three numbers and outputs the total of the three numbers; For example – a user inputs 3, 5 & 8. The output will be 16.
-Your function should work so that a user can input any three numbers they wish.
+- Project No. 3 - Get value from user
+- BRIEF - Look at the code given. Create a main function that takes the value getValueFromUser(). As an example the final output should look like this: 4 + 3 = 7. You can only make changes to the main() function. No further changes to getValueFromUser() are allowed. Only input from a user is allowed, you can’t assign values to variables.
 - USING C++ IN VISUAL STUDIO CODE
-- SUDO CODE - #type of value returned by function, followed by variables 
-              #taking in the input of the three numbers
-              #adding the three numbers together
-              #displaying the total of the three numbers
-- CHALLENGES FACED - I was still fairly new to C++ but I was fairly confident of this exercise.
+- SUDO CODE - #function to ask a user to input a number and then return the input
+              #looks for this first and runs the code above
+              #looks for this next and runs code 
+              #assigned a variable sum to add the two variables above together
+              #outputs the first input, then the second and then the sum
+- CHALLENGES FACED - 
 - HOW I OVERCAME THIS CHALLENGE - I just made sure I read through all the sessions note to clarify any issues that I might face.
 
 
