@@ -58,3 +58,17 @@ Make sure to include a statement for any errors in the input (if it is below 700
               #main function
 - CHALLENGES FACED - This was the most code I had ever written for a program so far as there were many different things to take into account. I needed variables for intergers and strings, lots of output statements and input. Then else and if statements.
 - HOW I OVERCAME THIS CHALLENGE - I tried to condense it down as much as I could so that my code was clean and simple.
+
+- Project No. 5 - Odd sum
+- BRIEF - Create a function that takes in numbers between 0-30 and outputs the total sum of the odd numbers only. Create a function that takes in numbers between 0-30 and outputs each even number multiplied by 3. Create a function that while the counter is less than 10, the output to the terminal will be:
+“The number is n”
+When the counter reaches 5 the output will be: “We are halfway through”
+When the counter reaches 10 the output will be: “This is the end of the program”
+- USING C++ IN VISUAL STUDIO CODE
+- SUDO CODE - #declaring and initialising my variable oddSum
+              #for loop used to iterate 1 onto number inputted
+              #if statement which sees if the number inputted is an odd number (not divisible by 2) 
+              #incrementoddSum by 1
+              #terminal shows the sum of the odd numbers
+- CHALLENGES FACED - I had worked with for loops before so was used to how that worked but I had to figure out how to get just the odd numbers to add together.
+- HOW I OVERCAME THIS CHALLENGE - I figured out that I would need an if statement with a formula to see if a number is able to be divided by 2. If it isn't then that would mean its an odd number. Once I figured this out, the rest was easy.
