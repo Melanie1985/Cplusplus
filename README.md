@@ -79,3 +79,18 @@ Make sure to include a statement for any errors in the input (if it is below 700
               #calls the function
 - CHALLENGES FACED - Once again I found it a little difficult to see how I could output even numbers multiplied by three but I thought I would use the same method as the previous project.
 - HOW I OVERCAME THIS CHALLENGE - I did the opposite of the odd number challenge so used an if statement to see if the number was divisible by 2 then its even. I then just multiplied that number by 3.
+
+- Project No. 7 - Counter
+- BRIEF - Create a function that while the counter is less than 10, the output to the terminal will be:
+“The number is n”
+When the counter reaches 5 the output will be: “We are halfway through”
+When the counter reaches 10 the output will be: “This is the end of the program”
+- USING C++ IN VISUAL STUDIO CODE
+- SUDO CODE - #declare variable called count
+              #while loop that states if count is less than 10 print out statement
+              #if statement that states when count is equal to 5 then print statement to terminal
+              #counter to iterate through
+              #statement to say its the end of the program once counter reaches 10
+- CHALLENGES FACED - With this exercise I didn't know how I would be able to get the terminal to output a message inbetween numbers.
+- HOW I OVERCAME THIS CHALLENGE - It was all about the where I put the curly brackets with this one. After I got this far, the rest of the code came naturally.
+
