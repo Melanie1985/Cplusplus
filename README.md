@@ -31,7 +31,6 @@ Your function should work so that a user can input any three numbers they wish.
               #looks for this next and runs code 
               #assigned a variable sum to add the two variables above together
               #outputs the first input, then the second and then the sum
-- CHALLENGES FACED - 
-- HOW I OVERCAME THIS CHALLENGE - I just made sure I read through all the sessions note to clarify any issues that I might face.
-
+- CHALLENGES FACED - I struggled on this one to try and figure out how I could add 2 integers together without changing any of the getValueFromUser function.
+- HOW I OVERCAME THIS CHALLENGE - I went back over my notes and also looked online at a few different C++ sites to look for any help. I was finally able to complete my code and understand that I needed to createa variable for each function.
 
