@@ -20,6 +20,18 @@ Your function should work so that a user can input any three numbers they wish.
               #taking in the input of the three numbers
               #adding the three numbers together
               #displaying the total of the three numbers
-- CHALLENGES FACED - 
-- HOW I OVERCAME THIS CHALLENGE -
+- CHALLENGES FACED - I was still fairly new to C++ but I was fairly confident of this exercise.
+- HOW I OVERCAME THIS CHALLENGE - I just made sure I read through all the sessions note to clarify any issues that I might face.
+
+- Project No. 3 - Total of 3 numbers
+- BRIEF - Create a function and within it write your statements so that it takes in three numbers and outputs the total of the three numbers; For example – a user inputs 3, 5 & 8. The output will be 16.
+Your function should work so that a user can input any three numbers they wish.
+- USING C++ IN VISUAL STUDIO CODE
+- SUDO CODE - #type of value returned by function, followed by variables 
+              #taking in the input of the three numbers
+              #adding the three numbers together
+              #displaying the total of the three numbers
+- CHALLENGES FACED - I was still fairly new to C++ but I was fairly confident of this exercise.
+- HOW I OVERCAME THIS CHALLENGE - I just made sure I read through all the sessions note to clarify any issues that I might face.
+
 
