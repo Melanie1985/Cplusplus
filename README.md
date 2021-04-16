@@ -60,10 +60,7 @@ Make sure to include a statement for any errors in the input (if it is below 700
 - HOW I OVERCAME THIS CHALLENGE - I tried to condense it down as much as I could so that my code was clean and simple.
 
 - Project No. 5 - Odd sum
-- BRIEF - Create a function that takes in numbers between 0-30 and outputs the total sum of the odd numbers only. Create a function that takes in numbers between 0-30 and outputs each even number multiplied by 3. Create a function that while the counter is less than 10, the output to the terminal will be:
-“The number is n”
-When the counter reaches 5 the output will be: “We are halfway through”
-When the counter reaches 10 the output will be: “This is the end of the program”
+- BRIEF - Create a function that takes in numbers between 0-30 and outputs the total sum of the odd numbers only. 
 - USING C++ IN VISUAL STUDIO CODE
 - SUDO CODE - #declaring and initialising my variable oddSum
               #for loop used to iterate 1 onto number inputted
@@ -72,3 +69,13 @@ When the counter reaches 10 the output will be: “This is the end of the progra
               #terminal shows the sum of the odd numbers
 - CHALLENGES FACED - I had worked with for loops before so was used to how that worked but I had to figure out how to get just the odd numbers to add together.
 - HOW I OVERCAME THIS CHALLENGE - I figured out that I would need an if statement with a formula to see if a number is able to be divided by 2. If it isn't then that would mean its an odd number. Once I figured this out, the rest was easy.
+
+- Project No. 6 - Even x 3
+- BRIEF - Create a function that takes in numbers between 0-30 and outputs each even number multiplied by 3. 
+- USING C++ IN VISUAL STUDIO CODE
+- SUDO CODE - #for loop to loop through numbers 0 - 30
+              #if statement that states if i is divisible by 2 then its an even number  
+              #prints to the terminal each even number * 3
+              #calls the function
+- CHALLENGES FACED - Once again I found it a little difficult to see how I could output even numbers multiplied by three but I thought I would use the same method as the previous project.
+- HOW I OVERCAME THIS CHALLENGE - I did the opposite of the odd number challenge so used an if statement to see if the number was divisible by 2 then its even. I then just multiplied that number by 3.
