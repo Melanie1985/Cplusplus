@@ -122,8 +122,8 @@ Please include commas
 - Project No. 10 - Login File
 - BRIEF - In this home learning task you’re going to create a file, that contains a username and password. It then checks the username and password you supplied to log into the file. I had all the different steps given to me.
 - USING C++ IN VISUAL STUDIO CODE
-- SUDO CODE - 
-- CHALLENGES FACED - This was another piece of code that I enjoyed writing as I felt I completely understood it.
-- HOW I OVERCAME THIS CHALLENGE - Finding the names of flowers!!
+- SUDO CODE - See project for sudo code
+- CHALLENGES FACED - I struggled a little following the instructions properly as I didn't quite understand the code at first.
+- HOW I OVERCAME THIS CHALLENGE - After much reading, I started to figure out why my code wasn't working. So I had to do lots of re-reading of my code to make sure it wasn't syntax errors. 
 
 
