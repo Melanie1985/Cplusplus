@@ -94,3 +94,17 @@ When the counter reaches 10 the output will be: “This is the end of the progra
 - CHALLENGES FACED - With this exercise I didn't know how I would be able to get the terminal to output a message inbetween numbers.
 - HOW I OVERCAME THIS CHALLENGE - It was all about the where I put the curly brackets with this one. After I got this far, the rest of the code came naturally.
 
+- Project No. 8 - Structs
+- BRIEF - Create a struct for a company with individual employee details:
+Once you’ve created the struct write a function that prints to the console who works in what department. The output should be:
+“Employee number: <employee number>”
+“<person> works in the <department> department”
+- USING C++ IN VISUAL STUDIO CODE
+- SUDO CODE - #created four variables to hold in information about a person.
+              #used the list I was given to create my employee and and department list
+              #used whoAndWhere function 
+              #output each individuals employee details
+- CHALLENGES FACED - I enjoyed this exercise as it was completely new and there were lots to read over to make sure my code worked.
+- HOW I OVERCAME THIS CHALLENGE - I read through the notes so that I didn't get any of my syntax wrong and this helped me.
+
+
