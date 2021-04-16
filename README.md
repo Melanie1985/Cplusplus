@@ -107,4 +107,17 @@ Once you’ve created the struct write a function that prints to the console who
 - CHALLENGES FACED - I enjoyed this exercise as it was completely new and there were lots to read over to make sure my code worked.
 - HOW I OVERCAME THIS CHALLENGE - I read through the notes so that I didn't get any of my syntax wrong and this helped me.
 
+- Project No. 9 - Flowers array
+- BRIEF - Print the following array to the terminal using a loop: string flowers[]{"Daisies", "Gardenias", "Lilies", "Orchids",
+"Roses", "Sunflowers", "Tulips", "Dahlias", "Peonies"};
+Output should be: Daisies, Gardenias, Lilies, Orchids, Roses, Sunflowers, Tulips, Dahlias, Peonies.
+Please include commas
+- USING C++ IN VISUAL STUDIO CODE
+- SUDO CODE - #create a variable and array along with its elements
+              #for loop to iterate through each element
+              #prints out list of flowers using the index
+- CHALLENGES FACED - This was another piece of code that I enjoyed writing as I felt I completely understood it.
+- HOW I OVERCAME THIS CHALLENGE - Finding the names of flowers!!
+
+
 
